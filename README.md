@@ -28,10 +28,5 @@ Here, we would have to register first, then you would be able to login, upon whi
 Each of these buttons would lead us to a different page to buy, sell and estimate which crop to use.
 
 
-![image](https://github.com/girija2020/buysellrent_farm/assets/82602432/bd02be11-ac57-473d-8b5e-d8c6c2430b11)
+https://github.com/girija2020/buysellrent_farm/assets/82602432/9a7d76ee-df3f-4bf0-b41e-6a168434222e
 
-
-![image](https://github.com/girija2020/buysellrent_farm/assets/82602432/56f562fd-2e46-4c6d-ba4b-81122d5e72c2)
-
-
-![image](https://github.com/girija2020/buysellrent_farm/assets/82602432/73344d75-ee9e-41b6-9c28-c066dec06f3c)
